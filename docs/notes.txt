@@ -1,0 +1,14 @@
+- modellen:
+VGG16 model
+ResNet
+MobilNetV2 (keras)
+DenseNet121
+
+- should have:
+papers bij modellen opzoeken
+aangeven welke metingen er verricht gaan worden
+resultaten van metingen vergelijken per model/methode
+
+- could have:
+eigen features bedenken en accuraatheid vergelijken
+een methode bedenken die minder resource intensive is
