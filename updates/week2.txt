@@ -1,0 +1,11 @@
+- Werkcolleges gevolgd van les 3, 4.
+- Filmpjes gekeken van module 3 en 5.
+- Opdrachten gemaakt en ingeleverd van module 3.
+- Papers opgezocht van de CNN modellen die ik wil gaan trainen voor de eindopdracht.
+- Verder uitgezocht hoe ik de eindopdracht vorm wil geven en naar welke doelen ik toe wil werken.
+- Uitgezocht welke methodes/tooling gebruikt kan worden voor het maken van een planning.
+  (Gekozen voor een combinatie van MoSCoW, backwards planning en Gantt Charts.)
+- Doelen van het project uitgewerkt/omschreven en geprioriteerd.
+- Het project opgedeeld in phases en taken en verwerkt in een takenlijst.
+- Effort/tijdsduratie toegekend aan de verschillende take/phases en in een Gantt Chart verwerkt.
+- Planning gedocumenteerd en ingeleverd.
