@@ -9,7 +9,8 @@ def apply_filter(kx, ky, img=data.camera()):
     gx  = ndimage.convolve(img, kx)
     gy  = ndimage.convolve(img, ky)
     img = np.sqrt(np.square(gx) + np.square(gy))
-    return np.asarray(np.clip(img, 0, 255), dtype="uint8")
+    img = np.clip(img, 0, 255)
+    return np.asarray(img, dtype="uint8")
 
 
 def show_image(img, name='', cmap='gray'):
@@ -51,4 +52,3 @@ roberts_mask = (
         [0, 0,+1],
         [0,-1, 0]]))
 show_image(apply_filter(*roberts_mask), 'roberts')
-
